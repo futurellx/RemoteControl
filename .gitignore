@@ -1,0 +1,49 @@
+# Visual Studio local settings and caches
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.aps
+*.VC.db
+*.VC.VC.opendb
+
+# Build directories (at any level)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+[Bb]in/
+[Oo]bj/
+
+# Compiler, linker and debugger output
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.ipdb
+*.iobj
+*.res
+*.tlog
+*.lastbuildstate
+*.exe
+*.dll
+*.lib
+*.exp
+*.recipe
+*.log
+*.dmp
+
+# Local troubleshooting backups, fixtures and build checks
+.build-check/
+.runtime-fix/
+.startup-check/
+.file-browse-check/
+.upload-check/
+
+# OS metadata
+Thumbs.db
+[Dd]esktop.ini
